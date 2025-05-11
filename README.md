@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AMAN PANDEY</h1>
-<h3 align="center">UI/UX Designer & Frontend Developer | Expert in React, Vue, GSAP | Creating Modern, Responsive Web Interfaces from India</h3>
+<h3 align="center">UI/UX Designer | User Interface & User Experience Expert | Web & Mobile App Design Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-ap-official&label=Profile%20views&color=0e75b6&style=flat" alt="aman-ap-official" /> </p>
 
