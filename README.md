@@ -30,8 +30,9 @@ Crafting intuitive, human-centered digital experiences
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aman-ap-official&theme=onedark&no-frame=true&row=1&margin-w=15"/>
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,php,react,python&perline=7" />
 </p>
+
 
 
 ---
