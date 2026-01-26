@@ -1,10 +1,9 @@
 <!-- HERO : Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+AMAN+PANDEY;UI%2FUX+Designer+|+Design+Strategist;Web+%26+Mobile+Experience+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+AMAN+PANDEY;UI%2FUX+Designer+|+Design+Strategist;Web+%26+Mobile+Experience+Specialist" />
 </p>
 
-
-<!-- Subtle Gradient Line Animation -->
+<!-- Gradient Divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
@@ -12,7 +11,9 @@
 <h3 align="center">
 Crafting intuitive, human-centered digital experiences  
 <br/>
-<span style="font-size:14px; color:gray;">UI • UX • Product • Web • Mobile</span>
+<span style="font-size:14px; color:#94a3b8;">
+UI • UX • Product • Web • Mobile
+</span>
 </h3>
 
 ---
@@ -24,16 +25,19 @@ Crafting intuitive, human-centered digital experiences
 
 ---
 
-<!-- Trophy Section (Minimal & Professional) -->
+## 💡 What I Do
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+AMAN+PANDEY;UI%2FUX+Designer+|+Design+Strategist;Web+%26+Mobile+Experience+Specialist" />
+I design thoughtful digital products that balance  
+<strong>business goals</strong> and <strong>user needs</strong>,  
+from research and wireframes to polished UI systems.
 </p>
 
+---
+
+## 🧩 Core Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,html,css,js,php,react,python&perline=7" />
 </p>
-
-
 
 ---
 
