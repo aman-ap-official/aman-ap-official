@@ -26,8 +26,13 @@ Crafting intuitive, human-centered digital experiences
 
 <!-- Trophy Section (Minimal & Professional) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aman-ap-official&theme=flat&no-frame=true&row=1&margin-w=15"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+AMAN+PANDEY;UI%2FUX+Designer+|+Design+Strategist;Web+%26+Mobile+Experience+Specialist" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aman-ap-official&theme=onedark&no-frame=true&row=1&margin-w=15"/>
+</p>
+
 
 ---
 
