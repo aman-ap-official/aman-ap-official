@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+AMAN+PANDEY" />
-</p>
+<h1 align="center">Hi 👋, I'm AMAN PANDEY</h1>
 
 <h3 align="center">UI/UX Designer | User Interface & User Experience Expert | Web & Mobile App Design Specialist</h3>
 
