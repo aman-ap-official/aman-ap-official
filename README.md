@@ -38,6 +38,24 @@
   from research and wireframes to polished UI systems.
 </p>
 
+<p align="center">
+  <em>
+    Focused on usability, accessibility, and scalable design systems  
+    that improve engagement and conversion.
+  </em>
+</p>
+
+---
+
+## 🧠 Featured Work
+<p align="center">
+  🔹 End-to-end UI/UX design for web & mobile products  
+  <br/>
+  🔹 Design systems & reusable UI components  
+  <br/>
+  🔹 UX audits, usability testing & experience optimization  
+</p>
+
 ---
 
 ## 🧩 Core Skills
@@ -53,7 +71,7 @@
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://aman-pandey-official.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-View%20Case%20Studies-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/aman-pandey-ap" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
@@ -69,6 +87,10 @@
   </a>
 </p>
 
+<p align="center">
+  <strong>💼 Open to freelance & full-time opportunities</strong>
+</p>
+
 ---
 
 ## 🛠️ Languages & Tools
@@ -80,6 +102,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient"/>
+</p>
 
 ## 📊 GitHub Insights
 <p align="center">
