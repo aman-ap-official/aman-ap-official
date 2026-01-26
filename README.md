@@ -1,7 +1,8 @@
 <!-- HERO : Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=34&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+AMAN+PANDEY;UI%2FUX+Designer+%7C+Design+Strategist;Web+%26+Mobile+Experience+Specialist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+AMAN+PANDEY;UI%2FUX+Designer+|+Design+Strategist;Web+%26+Mobile+Experience+Specialist" alt="Typing SVG" />
 </p>
+
 
 <!-- Subtle Gradient Line Animation -->
 <p align="center">
