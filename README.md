@@ -109,10 +109,16 @@
 
 ## 📊 GitHub Insights
 
-![](https://github-readme-stats.vercel.app/api?username=aman-ap-official&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)
-![](https://github-readme-stats.vercel.app/api?username=aman-ap-official&show_icons=true&hide_border=true&theme=tokyonight#gh-dark-mode-only)
-
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aman-ap-official&show_icons=true&hide_border=true&theme=tokyonight"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-ap-official&layout=compact&hide_border=true&theme=tokyonight"
+    height="170"
+  />
+</p>
 
 
 ---
