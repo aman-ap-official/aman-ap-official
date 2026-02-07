@@ -108,9 +108,14 @@
 </p>
 
 ## 📊 GitHub Insights
-<img
-  src="https://github-readme-stats.vercel.app/api?username=aman-ap-official&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400"
-/>
+<p align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman-ap-official&show_icons=true&hide_border=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-ap-official&layout=compact&hide_border=true&theme=tokyonight)
+
+</p>
+
 
 
 
